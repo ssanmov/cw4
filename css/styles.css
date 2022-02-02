@@ -1,0 +1,29 @@
+h1{
+    color: aqua;
+    font-size: 40px;
+}
+img{
+    height: 300px;
+}
+.penguin{
+    background-color: chocolate;
+}
+.penguin:hover{
+    background-color: darkgreen;
+    border-radius: 150%;
+}
+.gtr{
+    background-color: darkblue;
+}
+.rounded{
+    border-radius: 100%;
+}
+
+#p1:hover{
+    color: darkred;
+    font-size: 20px;
+}
+.p2:hover{
+    background-color: darkseagreen;
+    font-size: 30px;
+}
